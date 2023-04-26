@@ -1,10 +1,14 @@
 # Header Menu
 menu:
-  Home: /
-  Archives: /archives
+  #Home: /
+  主页: /
+  #Archives: /archives
+  文档: /archives
   # change github and email values to your own addresses
-  Github: https://github.com/<your-github-username>
-  Email: mailto:<your-email-address>
+  #Github: https://github.com/<your-github-username>
+  Github: https://github.com/wenhao26/toolbox
+  #Email: mailto:<your-email-address>
+  电子邮件: mailto:<your-email-address>
 rss: /atom.xml
 
 # Set to false to disable banner

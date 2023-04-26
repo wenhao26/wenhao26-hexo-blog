@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡椒
-subtitle: '胡椒'
-description: ''
-keywords:
-author: wenhao26
+title: 胡椒大叔
+subtitle: '主要成分是胡椒碱，也含有一定量的芳香油、粗蛋白、粗脂肪及可溶性氮，能祛腥、解油腻，助消化'
+description: '胡椒的主要成分是胡椒碱，也含有一定量的芳香油、粗蛋白、粗脂肪及可溶性氮，能祛腥、解油腻，助消化'
+keywords: 胡椒大叔
+author: 胡椒大叔
 language: en
 timezone: ''
 
@@ -100,6 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: aero-dual
+lang: zh-CN
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
