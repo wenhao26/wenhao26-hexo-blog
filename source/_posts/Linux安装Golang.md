@@ -16,8 +16,6 @@ tags:
 * [go1.18.10.linux-amd64.tar.gz](https://dl.google.com/go/go1.18.10.linux-amd64.tar.gz)
 * 你也可以通过 wget 方式在你服务直接下载
 
-<br />
-
 #### 下载好安装包后，解压到安装目录
 
 ##### 如本案例解压到目录：/usr/local/go，这些你可以根据自己情况解压到对应目录即可。
@@ -25,8 +23,6 @@ tags:
 ``` bash
 tar -C /usr/local -zxvf go1.18.10.linux-amd64.tar.gz
 ```
-
-<br />
 
 #### 配置 profile 
 
